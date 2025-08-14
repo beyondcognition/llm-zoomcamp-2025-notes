@@ -1,5 +1,5 @@
 # Module 1: Introduction
- 
+Trying to push a changed readme to github branch. 
 In this module, we will learn what LLM and RAG are and
 implement a simple RAG pipeline to answer questions about 
 the FAQ Documents from our Zoomcamp courses
